@@ -2247,11 +2247,6 @@ hash = "1510fe343a8a86f4a20fd53ffc000b7b032fe78993322f3e88bb2a978c2163e8"
 metafile = true
 
 [[files]]
-file = "mods/.index/bclib-neoforge.pw.toml"
-hash = "c72294adaef714bb099b7a3edcb12144011233f04529313bfd6fb446ea6751c0"
-metafile = true
-
-[[files]]
 file = "mods/.index/bellsandwhistles.pw.toml"
 hash = "1db1cbff929bed2994ed9fc786ba2fe927132a756f7056da2c0ee401aca738cb"
 metafile = true
@@ -2264,11 +2259,6 @@ metafile = true
 [[files]]
 file = "mods/.index/better-combat.pw.toml"
 hash = "93285aa5fee1b269f1cd2bb601236a69de22e92fa6c09e4e39fead26caf41e69"
-metafile = true
-
-[[files]]
-file = "mods/.index/betternether-neoforge.pw.toml"
-hash = "ac3a88423c5eb8f9c92f000e1a08e9100598713e353d4851e23fcc044cb99533"
 metafile = true
 
 [[files]]
@@ -2319,11 +2309,6 @@ metafile = true
 [[files]]
 file = "mods/.index/caverns-and-chasms.pw.toml"
 hash = "e1f8c15f99214401b33ae074eeb46f3d14619ba1c45859644f146ae82d2cbbbd"
-metafile = true
-
-[[files]]
-file = "mods/.index/celestisynth-1-21-1.pw.toml"
-hash = "e6bb2b55d645cb2fe3a6f15a76aa1bfd72678cf2d47c7410f481aa0a33aac5f5"
 metafile = true
 
 [[files]]
@@ -2567,18 +2552,8 @@ hash = "43707c1c7585392290d10aecbb6c8cf656956277f7cca72519812cfaf24ce409"
 metafile = true
 
 [[files]]
-file = "mods/.index/double-doors.pw.toml"
-hash = "6a20e458f21edfc97b077c0f47bc8efcd105847b419e62efbfe0fd067e25bbde"
-metafile = true
-
-[[files]]
 file = "mods/.index/dynamic-fps.pw.toml"
 hash = "be7a7349694e9910ac894d9570fc67bfcd52b5fb96189faf76c4c66f02fa37cd"
-metafile = true
-
-[[files]]
-file = "mods/.index/easy-anvils.pw.toml"
-hash = "dae5251a9523e821c075b3aee0349b384d093c5ee5e33d51becab7e6c68d9e5f"
 metafile = true
 
 [[files]]
@@ -2717,11 +2692,6 @@ hash = "23d76c44a7898c12d20915aff10566ab4496fb2d04db250d765698a5ba5da8b3"
 metafile = true
 
 [[files]]
-file = "mods/.index/inventory-sorter.pw.toml"
-hash = "96210bb21732c8fb58a72a3241450e5a83920fd009a49159a4f4c1787f871d9e"
-metafile = true
-
-[[files]]
 file = "mods/.index/iris-flw-compat.pw.toml"
 hash = "213c743597e08432bc184bcaab44a4bc8a12f09333130da7b0beb19b64dc7dbe"
 metafile = true
@@ -2739,11 +2709,6 @@ metafile = true
 [[files]]
 file = "mods/.index/irons-spells-n-spellbooks.pw.toml"
 hash = "688178ac2befe07738412857393e192c634f12e7e8523d3e424b7364f1f2b512"
-metafile = true
-
-[[files]]
-file = "mods/.index/itemlocks.pw.toml"
-hash = "6aba08795a20478b88b0c403b9bc2b7afc3573e22ce27c3a8d91afedc68de196"
 metafile = true
 
 [[files]]
@@ -3142,11 +3107,6 @@ hash = "75599c0b8c3a517a0a9180caef992dca1f09fe4d8a1cda01b2781514a0e505fc"
 metafile = true
 
 [[files]]
-file = "mods/.index/spellbooks-of-twilight-irons-spells-x-the-twilight.pw.toml"
-hash = "20ef91ccd31370db50bc02e4f7a56accba05c0ccbdb4634aaf02ec917913aaad"
-metafile = true
-
-[[files]]
 file = "mods/.index/stardew-fishing.pw.toml"
 hash = "264bb5d602dd4a6140e3ac88dd45cb68ce15365dc1374d08cd6335f71daf1eb0"
 metafile = true
@@ -3202,11 +3162,6 @@ hash = "610486062d6c719deb5cb62abf24476180f9265e923353264137c4df68973731"
 metafile = true
 
 [[files]]
-file = "mods/.index/the-twilight-forest.pw.toml"
-hash = "adc2019e4cd2275195ac31c07e142f2497e2d4a3deb30df5bbfb3a962af861a1"
-metafile = true
-
-[[files]]
 file = "mods/.index/torchmaster.pw.toml"
 hash = "751db944396dd0a5f5ee40c3da6a75694dff916b858eab97b1f82c504d2a54d8"
 metafile = true
@@ -3242,11 +3197,6 @@ hash = "710b64e769c10e1cba9dbdb203d203461d2954bb6bddf984b89adf41c39e4474"
 metafile = true
 
 [[files]]
-file = "mods/.index/visual-workbench.pw.toml"
-hash = "4d2053cc6b777d632874f58529912de9044bc234aefaa4b42d95496e0977927a"
-metafile = true
-
-[[files]]
 file = "mods/.index/waystones-sable.pw.toml"
 hash = "1269572fde1c3a1fbb5f49cbb99015daf6560cd62541fc0ac7f22941a0995755"
 metafile = true
@@ -3269,16 +3219,6 @@ metafile = true
 [[files]]
 file = "mods/.index/woodworks.pw.toml"
 hash = "55864f91b46fb3a983e6b1bae7c3b1e234f0ef7687faf027171bb74f5d812c5c"
-metafile = true
-
-[[files]]
-file = "mods/.index/worldweaver-neoforge.pw.toml"
-hash = "4f222112d3cc9b23566ac040afceadf852903ff817ce47e3c2ce430735358aa2"
-metafile = true
-
-[[files]]
-file = "mods/.index/wunderlib-neoforge.pw.toml"
-hash = "89da250fd4fdc1d5acf8d16c8794dcbd5895d8986de5af70d7a54baa50bbb400"
 metafile = true
 
 [[files]]
