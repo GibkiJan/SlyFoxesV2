@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create_connected-common.toml"
+hash = "74ba0731b3d72575fc019d8380d3a3e93d4d88088722c1b815d080cc7db02f09"
+
+[[files]]
 file = "config/structurify.json"
 hash = "e03896cd3b97996bb1b0539ba35a3c7383797636daa973250663da8fec80ae13"
 
