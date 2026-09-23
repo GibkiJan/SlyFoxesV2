@@ -1408,6 +1408,10 @@ file = "mods/aces_spell_utils-1.2.7.2-1.21.1.jar"
 hash = "da3ec5f0201ff87d52df0d952b8ed379e77b8a5d98666558ec4bea0805fe97be"
 
 [[files]]
+file = "mods/aether-1.21.1-1.5.10-neoforge.jar"
+hash = "a999a9265eb550a46a0f8eedfee7c3c75371d7f6cf34b7c09ff800e48633e9f8"
+
+[[files]]
 file = "mods/aethersdelight-0.1.4.2-1.21.1.jar"
 hash = "11b07fce5c69682290106fc1c79fc447606791239a18965f71114f360e8a947e"
 
