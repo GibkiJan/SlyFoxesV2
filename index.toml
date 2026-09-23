@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/structurify.json"
+hash = "e03896cd3b97996bb1b0539ba35a3c7383797636daa973250663da8fec80ae13"
+
+[[files]]
 file = "config/torchmaster.toml"
 hash = "4765c6a67959c7a4c0e5366eb28b13f4188577d8e54bde7d07b0adc9f92bb3ad"
 
@@ -1534,6 +1538,10 @@ file = "mods/configurable-3.5.2+1.21.1-neoforge.jar"
 hash = "735076ab03947c0fc8a588ddfbe1cce5fa94b361fbaf8cc71f2325cb747e27b0"
 
 [[files]]
+file = "mods/configuration-neoforge-1.21.1-3.1.1.jar"
+hash = "b903cc326e10af63226c7a45571bda1e0cf88b978c9920275806e852bcd92bc1"
+
+[[files]]
 file = "mods/copycats-3.0.9+mc.1.21.1-neoforge.jar"
 hash = "d1efdd8688af6603dff9425299ac4547ef56a7d5cfee757716ead7853276694e"
 
@@ -2012,6 +2020,10 @@ hash = "ef8eb29c5c4f111c74a49d379843e4c2f51d11b28c8116a49be13636c83f4385"
 [[files]]
 file = "mods/structurify-neoforge-2.0.38+mc1.21.1.jar"
 hash = "3cdda22c528078902c4a4b867d45151d1416b5a48a3dbc310d1cd58a7771013c"
+
+[[files]]
+file = "mods/structurify-neoforge-2.0.40+mc1.21.1.jar"
+hash = "e005afe32914d9328a4a5c9a380eba6a8d67872cbff124c91f4b7f705e52e4e5"
 
 [[files]]
 file = "mods/submarinefix-1.0.1.jar"
