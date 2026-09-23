@@ -1092,11 +1092,6 @@ hash = "df18204e330887550a6da27961398a7e90cc2ae2148587e4cb311fb3ed2897ce"
 metafile = true
 
 [[files]]
-file = "mods/.index/xaeros-world-map.pw.toml"
-hash = "db01d53554976752f1c5a6dd58eec08e2d86684f8870d057e1c5e016aed95083"
-metafile = true
-
-[[files]]
 file = "mods/.index/yacl.pw.toml"
 hash = "2c3c1a470e0aadb71f40f2eade67760b9452b3d6c23e039239aeeded0e72c5ca"
 metafile = true
