@@ -1142,11 +1142,6 @@ hash = "fa4576bc3298d0c3e9deed627f212404d324512905cdc364de41c68928d15af2"
 metafile = true
 
 [[files]]
-file = "mods/.index/yungs-bridges.pw.toml"
-hash = "c269d9ef7322bb482e97158084e28a79889dfdb8b7b6f28df689ad178dd08dee"
-metafile = true
-
-[[files]]
 file = "mods/AI-Improvements-1.21-0.5.3.jar"
 hash = "795618769ff1ac782750be9e8faaf3e3d212f1687c3baab98c1282a98a63a41e"
 
@@ -1393,6 +1388,10 @@ hash = "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58"
 [[files]]
 file = "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
 hash = "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d"
+
+[[files]]
+file = "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+hash = "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec"
 
 [[files]]
 file = "mods/aces_spell_utils-1.2.7.2-1.21.1.jar"
