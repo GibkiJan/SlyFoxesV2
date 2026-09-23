@@ -2113,3 +2113,120 @@ hash = "afba8efce2d974d839702cfc112ebab43e676479202d219c0ae34c4b9dd0d17a"
 [[files]]
 file = "servers.dat_old"
 hash = "afba8efce2d974d839702cfc112ebab43e676479202d219c0ae34c4b9dd0d17a"
+
+[[files]]
+file = "shaderpacks/BSL_v10.1.8.zip"
+hash = "36b0a50ff7918bf10e9422c401d93779f9d0088a26acea975b435243f96930b5"
+
+[[files]]
+file = "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+hash = "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
+hash = "fed6c879e732cf7fc7bc6570ebb1def43235aa7e96f62859fbdbdbfa0b484b38"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.9.3.zip"
+hash = "98ac741dee294d2a3c82d153349148c3bb7fb688c30eb3b49c3b9ac37e968c5a"
+
+[[files]]
+file = "shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip"
+hash = "cfad48537a3cbd7db219e29f07b24820c80322d5df656a9d087da5f8f9fc1df2"
+
+[[files]]
+file = "shaderpacks/Insanity-Shader-Universal-v1.650.zip"
+hash = "ed0ece7500307584a7bba09a872fde39df78fcfa1b90f3e4fac36da60e96a511"
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-9.5e.zip"
+hash = "8eae9f4b46c8c0fd98968d9ff58d9d25903cf11c79926d8d08c7ae0029d09f97"
+
+[[files]]
+file = "shaderpacks/Noble v1.9.8 hotfix.zip"
+hash = "a925f7b219dc62b1fd483f6c65fe2dc5a79c4aaa5f1363ea3484eb6f62ce5b4c"
+
+[[files]]
+file = "shaderpacks/Nostalgia_v5.1.zip"
+hash = "7d7211af2fac6d9b3c7fcbaad7a47f1a612450376d14383088908831c18b6cc8"
+
+[[files]]
+file = "shaderpacks/Sildur's Vibrant Shaders v2.02 Extreme.zip"
+hash = "824504bc937f9570277c0a809f5059ae4a5fe70c413cf4459b6ccff4dfed7ebe"
+
+[[files]]
+file = "shaderpacks/Solas Shader V3.7b.zip"
+hash = "b7dfe4c7353d677a92cc4c86b87bc0633f1014305d927ca6a482c303427bf825"
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "8e297f1cf6be26faa43f09ff1d9d8845753878c600b20af15a23f1664a7398e0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "accfd86c5569cb6d1bfde78a100fed93e4950fda8be73cc445fe05e492124a2e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "7d13a6a314dcc04bd66c2a8330b986f56730268c56d3148a536a85de83cbf4f5"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "cc84a26ef185ac12938d4d8d50986765e552c5086ff7ceb0256ba7d5fb529a16"
+metafile = true
+
+[[files]]
+file = "shaderpacks/hysteria-shaders.pw.toml"
+hash = "6b8447f885cb5a18d2d615390aee1050df5b8a498d4b15f6c4d89fb7ddb0b7ca"
+metafile = true
+
+[[files]]
+file = "shaderpacks/insanity-shader.pw.toml"
+hash = "578c9dd6a145f5c4217cfa72fd868c6dcb742ff81f8a80faf9f2f026d096eabb"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "f4203e99f593de69a344473f2e712f57c952fc1f8ab152045d1e0d74c75e80a6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/miniature-shader-2.19.zip"
+hash = "5f224e907657f3ffd95d37e37c27e555deef64fa56da1e13374f2c295241d7f0"
+
+[[files]]
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "23784164236896b12b7f8dca6cbf1149edf5a59053acc1e6e51e4f96aa178fd8"
+metafile = true
+
+[[files]]
+file = "shaderpacks/noble.pw.toml"
+hash = "97d461c18d39e9e0ee94997d4ecaf1c25d41a38302b5e731e5d4378b4a4f4566"
+metafile = true
+
+[[files]]
+file = "shaderpacks/nostalgia-shader.pw.toml"
+hash = "ac78e564a73a7642c43ffb6850237a58c70d1efdfec6c2d34ab3f04a8ff8b90d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "365ec6f6b442cece770903194fad02e29354d42c62f1291c72c1dfef86ed8e8e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon_v1.3b.zip"
+hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
+hash = "5c12572a354b0eb933de9590bddf31a8b8e5a71860586edf42240dd99cacadd5"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "ac737ed42b63619a6ebe8bddff8ad51ff4bfe28a536fbace9a58a0f971c56517"
+metafile = true
