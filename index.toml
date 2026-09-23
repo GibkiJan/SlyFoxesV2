@@ -1408,10 +1408,6 @@ file = "mods/aces_spell_utils-1.2.7.2-1.21.1.jar"
 hash = "da3ec5f0201ff87d52df0d952b8ed379e77b8a5d98666558ec4bea0805fe97be"
 
 [[files]]
-file = "mods/aether-1.21.1-1.5.10-neoforge.jar"
-hash = "a999a9265eb550a46a0f8eedfee7c3c75371d7f6cf34b7c09ff800e48633e9f8"
-
-[[files]]
 file = "mods/aethersdelight-0.1.4.2-1.21.1.jar"
 hash = "11b07fce5c69682290106fc1c79fc447606791239a18965f71114f360e8a947e"
 
@@ -2128,24 +2124,8 @@ file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
 hash = "fed6c879e732cf7fc7bc6570ebb1def43235aa7e96f62859fbdbdbfa0b484b38"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.9.3_fixed.zip"
-hash = "854df8b4220dc8a7a211c6f6523df1aa8974b18c286cc0a3a0294fc11dd24739"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.9.3_fixed.zip.txt"
-hash = "dfaa54b341aacd31c1517aaae16f8314e96ebe2837682a4d1f771e02ddb8db8d"
-
-[[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.9.3.zip"
 hash = "98ac741dee294d2a3c82d153349148c3bb7fb688c30eb3b49c3b9ac37e968c5a"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.9.3.zip.txt"
-hash = "039081d8370aba951a7e8f2c730abff79426fb198c2351b54dbf59252e83e1a1"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.9.3_fixed.zip"
-hash = "5cb92d898a21d6bae1be72055d8af7152bddf5723568c26f6984a46b2f058169"
 
 [[files]]
 file = "shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip"
@@ -2154,10 +2134,6 @@ hash = "cfad48537a3cbd7db219e29f07b24820c80322d5df656a9d087da5f8f9fc1df2"
 [[files]]
 file = "shaderpacks/Insanity-Shader-Universal-v1.650.zip"
 hash = "ed0ece7500307584a7bba09a872fde39df78fcfa1b90f3e4fac36da60e96a511"
-
-[[files]]
-file = "shaderpacks/MakeUp-UltraFast-9.5e.zip"
-hash = "8eae9f4b46c8c0fd98968d9ff58d9d25903cf11c79926d8d08c7ae0029d09f97"
 
 [[files]]
 file = "shaderpacks/Nostalgia_v5.1.zip"
@@ -2180,72 +2156,8 @@ file = "shaderpacks/Solas Shader V3.7b_fixed.zip"
 hash = "339d1b41694c76151ebbdd3c1cde5874f3b3d6656a21b6ccdd9aa9fea40c68f2"
 
 [[files]]
-file = "shaderpacks/bliss-shader.pw.toml"
-hash = "8e297f1cf6be26faa43f09ff1d9d8845753878c600b20af15a23f1664a7398e0"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "7d13a6a314dcc04bd66c2a8330b986f56730268c56d3148a536a85de83cbf4f5"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "cc84a26ef185ac12938d4d8d50986765e552c5086ff7ceb0256ba7d5fb529a16"
-metafile = true
-
-[[files]]
-file = "shaderpacks/hysteria-shaders.pw.toml"
-hash = "6b8447f885cb5a18d2d615390aee1050df5b8a498d4b15f6c4d89fb7ddb0b7ca"
-metafile = true
-
-[[files]]
-file = "shaderpacks/insanity-shader.pw.toml"
-hash = "578c9dd6a145f5c4217cfa72fd868c6dcb742ff81f8a80faf9f2f026d096eabb"
-metafile = true
-
-[[files]]
-file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "f4203e99f593de69a344473f2e712f57c952fc1f8ab152045d1e0d74c75e80a6"
-metafile = true
-
-[[files]]
-file = "shaderpacks/nostalgia-shader.pw.toml"
-hash = "ac78e564a73a7642c43ffb6850237a58c70d1efdfec6c2d34ab3f04a8ff8b90d"
-metafile = true
-
-[[files]]
-file = "shaderpacks/photon-shader.pw.toml"
-hash = "365ec6f6b442cece770903194fad02e29354d42c62f1291c72c1dfef86ed8e8e"
-metafile = true
-
-[[files]]
 file = "shaderpacks/photon_v1.3b.zip"
 hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
-
-[[files]]
-file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "9e5c615a0261e2194d0be8100e501b7acfe9f16a97bb0d4d01fed09eb5447492"
-
-[[files]]
-file = "shaderpacks/potato-shaders.pw.toml"
-hash = "6db99ead09a932f8fd2f94b0a3d096dd2e27f654ceab75188b64b55bc022b492"
-metafile = true
-
-[[files]]
-file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
-hash = "5c12572a354b0eb933de9590bddf31a8b8e5a71860586edf42240dd99cacadd5"
-metafile = true
-
-[[files]]
-file = "shaderpacks/solas-shader.pw.toml"
-hash = "ac737ed42b63619a6ebe8bddff8ad51ff4bfe28a536fbace9a58a0f971c56517"
-metafile = true
-
-[[files]]
-file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "1567011c61adeb223e3bc5dced9f4eecada2ef2bb57e123a8a861bc22b4fbc60"
-metafile = true
 
 [[files]]
 file = "shaderpacks/superDuperVanilla.zip"
