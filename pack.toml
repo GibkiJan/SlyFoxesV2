@@ -1,12 +1,12 @@
 name = "SlyFoxesV2"
 author = "GibkiJan"
-version = "0.8.2F"
+version = "0.8.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4d3c00d04eb8bde7a368c81274e3769938dded616eafc118dec169641ff7c2c0"
+hash = "5f4cd839eaaef0af06d6560ee9dee9318618325e0a43d22e4ff0e1fab48559b0"
 
 [versions]
 minecraft = "1.21.1"
