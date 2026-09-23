@@ -1,0 +1,25 @@
+filename = 'letsdo-brewery-neoforge-2.1.10.jar'
+name = "[Let's Do] Brewery"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.10'
+
+[download]
+hash = 'cc915bbff35141d9f864e92bda49d3c3610fdcb096f7024dcc47c236556f055368549c4e8dacffff23742b95e993106bc70a0814923eeedfd9f5727732e51f1e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b7NV2plI/versions/pQnOhZuI/letsdo-brewery-neoforge-2.1.10.jar'
+
+[update.modrinth]
+mod-id = 'b7NV2plI'
+version = 'pQnOhZuI'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'HJetCzWo'
+type = 'REQUIRED'

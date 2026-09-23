@@ -1,0 +1,25 @@
+filename = 'letsdo-wildernature-neoforge-1.1.6.jar'
+name = "[Let's Do] Wilder Nature"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.1.6'
+
+[download]
+hash = 'e44694b5e2b45072ff82b0cd36e6b444954dab13108891e30467f9845d9120df575d92165ecb160f8f91ab1191be346125d1f9d83c0c95a059ca0c0329e63626'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AAiRU4aQ/versions/jwvFJJGi/letsdo-wildernature-neoforge-1.1.6.jar'
+
+[update.modrinth]
+mod-id = 'AAiRU4aQ'
+version = 'jwvFJJGi'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

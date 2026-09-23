@@ -1,0 +1,18 @@
+filename = 'stardew_fishing-3.7-1.21.1.jar'
+name = 'Stardew Fishing'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.7'
+
+[download]
+hash = 'a5e538f4bd1cbf9f014c9fc08db5b052e5fef32ea13603aa9a36e89bbcefc60cc3842947433afc0cfbe214cf30aa64ab9ec1a1d3222772aeb55f86397d48235d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Rw1Ylmn4/versions/iJkNXCRB/stardew_fishing-3.7-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'Rw1Ylmn4'
+version = 'iJkNXCRB'

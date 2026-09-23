@@ -1,0 +1,32 @@
+[upscale]
+	preset = "DLAA"
+	sharpness = 0.35
+	dynamicTargetFps = 0
+	enableDynamic = true
+	depthReprojection = true
+	menuBoost = false
+	developerMode = false
+	debugDump = false
+	spacewarp = false
+	spacewarpDivisor = 2
+	spatialOnly = false
+	spacewarpUnderShaders = true
+	liveHandOnWarp = false
+	verboseLogging = false
+	vrrCeiling = true
+	packDoctorEnabled = true
+	packDoctorMissingVars = ["endFlashIntensity", "BIOME_PALE_GARDEN"]
+	shadowScale = 0.0
+	packBufferScale = 0.0
+	shadowCullBlocks = 0
+	shadowEntityDistance = 0
+	packDoctorAuto = true
+	packDoctorKnownVars = []
+
+[entities]
+	entityCulling = true
+	entityCullNearBlocks = 12
+	entityCullBudget = 48
+	blockEntityCulling = true
+	particleCulling = true
+	particleMaxDistance = 64

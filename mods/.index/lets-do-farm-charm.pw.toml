@@ -1,0 +1,21 @@
+filename = 'letsdo-farm_and_charm-neoforge-1.1.25.jar'
+name = "[Let's Do] Farm & Charm"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.25'
+
+[download]
+hash = '9d1cb8cda8ec574880cdd271128fff3d44d10cbc4f302704ce4fe00dd785f59737f94d67a0f2d2b8d2a875a151bbdf70704ea284aed0644ddd96e4c052dc5c60'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HJetCzWo/versions/GMgZHF7X/letsdo-farm_and_charm-neoforge-1.1.25.jar'
+
+[update.modrinth]
+mod-id = 'HJetCzWo'
+version = 'GMgZHF7X'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

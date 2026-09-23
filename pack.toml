@@ -1,0 +1,13 @@
+name = "SlyFoxesV2"
+author = "GibkiJan"
+version = "0.8.2F"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "02533f9bc019bd6fa0fc03e11bf709919356d14e2786c614c2b9f34438ad564c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"
