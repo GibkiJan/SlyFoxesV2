@@ -1390,6 +1390,10 @@ file = "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
 hash = "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d"
 
 [[files]]
+file = "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+hash = "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec"
+
+[[files]]
 file = "mods/aces_spell_utils-1.2.7.2-1.21.1.jar"
 hash = "da3ec5f0201ff87d52df0d952b8ed379e77b8a5d98666558ec4bea0805fe97be"
 
