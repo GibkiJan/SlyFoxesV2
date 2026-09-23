@@ -2018,10 +2018,6 @@ file = "mods/structure_layout_optimizer-neoforge-1.0.12.jar"
 hash = "ef8eb29c5c4f111c74a49d379843e4c2f51d11b28c8116a49be13636c83f4385"
 
 [[files]]
-file = "mods/structurify-neoforge-2.0.38+mc1.21.1.jar"
-hash = "3cdda22c528078902c4a4b867d45151d1416b5a48a3dbc310d1cd58a7771013c"
-
-[[files]]
 file = "mods/structurify-neoforge-2.0.40+mc1.21.1.jar"
 hash = "e005afe32914d9328a4a5c9a380eba6a8d67872cbff124c91f4b7f705e52e4e5"
 
