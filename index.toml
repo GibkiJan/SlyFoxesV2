@@ -2099,6 +2099,10 @@ file = "mods/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar"
 hash = "fcd0a18f5f5940b31353ee70ddb0194cf1cd9565a8bfc9557c93804e34422b89"
 
 [[files]]
+file = "mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar"
+hash = "a7f059e4c48211f6d5c962e7640f5179cc1636bccc907ea77ab9e1865635cb24"
+
+[[files]]
 file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
 hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
 
