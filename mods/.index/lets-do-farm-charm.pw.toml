@@ -1,6 +1,6 @@
 filename = 'letsdo-farm_and_charm-neoforge-1.1.25.jar'
 name = "[Let's Do] Farm & Charm"
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
