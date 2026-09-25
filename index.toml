@@ -2074,6 +2074,10 @@ file = "mods/torchmaster-neoforge-1.21.1-21.1.12.jar"
 hash = "c159b8315be4b5ba98cf38255765c57ee95dc384d664ab6ea6d8c3a7701779d9"
 
 [[files]]
+file = "mods/tracks_plus-1.0.6b7.jar"
+hash = "97a4891caf7defc84a0e57e88d3db829ddee4c1966b22ba2e9a02ae548503627"
+
+[[files]]
 file = "mods/trashcans-1.1.0-neoforge-mc1.21.jar"
 hash = "6b6bf375c71d97fd8d76036e0e4829c477626e3cc5f44612fd5adf5d5d9f9dd7"
 
