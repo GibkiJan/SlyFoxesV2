@@ -1406,6 +1406,10 @@ file = "mods/aces_spell_utils-1.2.7.2-1.21.1.jar"
 hash = "da3ec5f0201ff87d52df0d952b8ed379e77b8a5d98666558ec4bea0805fe97be"
 
 [[files]]
+file = "mods/aeroworks-1.5.0.jar"
+hash = "7e9745569a75eb613a9f75c9308aa2c806d3f0fab3a272d98647a13d3fa41641"
+
+[[files]]
 file = "mods/aether-1.21.1-1.5.10-neoforge.jar"
 hash = "a999a9265eb550a46a0f8eedfee7c3c75371d7f6cf34b7c09ff800e48633e9f8"
 
@@ -1580,6 +1584,10 @@ hash = "4aee9a1af2754609ab31bfebf13dc0d7d648e61e440232dbf9bb3459941e23d5"
 [[files]]
 file = "mods/create_aeronautics_throwable_rope_connector-0.4.3.jar"
 hash = "2c926061b2ace48446ea65193f44a56a5326f48da218c0e1fc5bc2d8182528c8"
+
+[[files]]
+file = "mods/create_aeronautics_transmission_linkage-0.2.8.jar"
+hash = "149a68e131440c62a2aae39357dc23cf190d7ec4fb52c0c0b105834988d63596"
 
 [[files]]
 file = "mods/create_aquatic_ambitions-1.21.1-2.0.4.jar"
@@ -1942,6 +1950,10 @@ file = "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
 hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
 
 [[files]]
+file = "mods/pipeorgans-0.8.2+1.21.1.jar"
+hash = "bf51565afb47d0c0d1fef3cced7c837eff18302740f472372845339f5f22d939"
+
+[[files]]
 file = "mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
 hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
 
@@ -1952,6 +1964,10 @@ hash = "4a09b7a3c8ea4f5b79acadb405a18140fe20d882e6930403c46cc7ad49c5ec06"
 [[files]]
 file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
 hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
+
+[[files]]
+file = "mods/railways-0.3.0-beta.2+neoforge-mc1.21.1.jar"
+hash = "64b74ddad661deae1cfe7e8334cfa3d39bb8ef7b761f83595ba0476c4a9bb1d5"
 
 [[files]]
 file = "mods/relics-1.21.1-0.12.8.jar"
