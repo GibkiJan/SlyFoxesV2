@@ -9,6 +9,10 @@ file = "config/loadingprotection-common.toml"
 hash = "49e10b75767e24bc0df3799531a75854b2c1be635e074b7db2e642bc1ab0c039"
 
 [[files]]
+file = "config/seasons.toml"
+hash = "14faa01b7d88dabf16aab29042b65349f7347a1cc51196661db2d0dff5d0ca5d"
+
+[[files]]
 file = "config/structurify.json"
 hash = "e03896cd3b97996bb1b0539ba35a3c7383797636daa973250663da8fec80ae13"
 
