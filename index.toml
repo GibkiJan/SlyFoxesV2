@@ -1490,6 +1490,10 @@ file = "mods/biolith-neoforge-3.0.14.jar"
 hash = "ded9169efb903198046cf44cf91a290ec836ed83a28e29179087eb860e0e6ce9"
 
 [[files]]
+file = "mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar"
+hash = "9e230bd509e7aeb3af4c08125db0340734c0179d83483649a16e45c0ea085e8c"
+
+[[files]]
 file = "mods/blueprint-1.21.1-8.2.0.jar"
 hash = "698b2e901e371202a583c1057fa50bb7b2415a359263b37dc8e62d3b73ea8a74"
 
@@ -1728,6 +1732,10 @@ hash = "26af871cacd134ce52610384bbdd362a018707444eb2d498e4833063f378cf85"
 [[files]]
 file = "mods/galosphere_spellbooks-1.1.5.jar"
 hash = "b06f6b3a22d191fe44fc3d7327459bde6d9a5c867abd5fe5865e5d2f3f3b2899"
+
+[[files]]
+file = "mods/geckolib-neoforge-1.21.1-4.8.4.jar"
+hash = "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
 
 [[files]]
 file = "mods/geckolib-neoforge-1.21.1-4.9.3.jar"
