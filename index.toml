@@ -1658,10 +1658,6 @@ file = "mods/crittersandcompanions-neoforge-1.21.1-2.7.0.jar"
 hash = "bc09d4e9996fae2c17092b3f58e2cc6ffe49d176e7cdf06495eeb4ac9a85b5dd"
 
 [[files]]
-file = "mods/cupboard-1.21.1-4.2.jar"
-hash = "5162922647fe07c7b9f446870915b57ddd0ae9dcf56b243611130fea30f2f77a"
-
-[[files]]
 file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
