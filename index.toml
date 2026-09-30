@@ -1206,10 +1206,6 @@ file = "mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar"
 hash = "42f582333ffe61366e68a9320d3c205153f2fdc5b53ad715b01543f85828e6b0"
 
 [[files]]
-file = "mods/Create-Structures-Arise-1.21.1-NeoForge-176.49.49.jar"
-hash = "a98c1853a4a3ab2b845f19617b8ed6aed682aa77e818c13bae4ab95ebff8bd6e"
-
-[[files]]
 file = "mods/CreateDragonsPlus-1.11.9.jar"
 hash = "37f05a6775bbe811fe8c2833fa6289a1c704d0b25bdd5f239d343a5c6f62ed8a"
 
