@@ -1886,6 +1886,30 @@ file = "mods/lodestone-1.21.1-1.8.2.jar"
 hash = "cc961af6a77391628378c1c838e521415fa895062b13def493d27234ca527f3e"
 
 [[files]]
+file = "mods/lootintegration_townsandtowers-1.5.jar"
+hash = "4deb73d48eeea0d9d6dd401ecb342d840a4dffaca5c18b88fb6d4cebbda6159c"
+
+[[files]]
+file = "mods/lootintegration_wda-1.8.jar"
+hash = "8645bc1926c231c715beb2393141c97079f9a84798039734479d69753ddd42bb"
+
+[[files]]
+file = "mods/lootintegrations-1.21.1-4.7.jar"
+hash = "1de9e6352f643f2850dce3e6b7aa8274902798a2243ea9e494fe13aabaa90d2c"
+
+[[files]]
+file = "mods/lootintegrations_borninchaos-1.1.jar"
+hash = "6e7a278a766a1fef56af04eeaf9574f31af28d2354dcf9ecc470f971566766fa"
+
+[[files]]
+file = "mods/lootintegrations_cataclysm-1.2.jar"
+hash = "1dae8ffd53e33f2e2b8aef6151308ca0cea434754f0938422a45fd2278ae6538"
+
+[[files]]
+file = "mods/lootintegrations_yungs-1.6.jar"
+hash = "15e0b2b1a6e538e2e4f14c1fa9fd272e3ea45d74b0e95d50d3f707a7cef9b9be"
+
+[[files]]
 file = "mods/man_of_many_planes-0.2.2+1.21.1-neoforge.jar"
 hash = "01884ff22227fe801c03bd53e67e204ee9cbf61532fb402e373865f1f0d9d893"
 
