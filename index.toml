@@ -18,7 +18,7 @@ hash = "14faa01b7d88dabf16aab29042b65349f7347a1cc51196661db2d0dff5d0ca5d"
 
 [[files]]
 file = "config/structurify.json"
-hash = "e03896cd3b97996bb1b0539ba35a3c7383797636daa973250663da8fec80ae13"
+hash = "0a184872318295e56a0474b299bb4812e257cf69c547254d54b135b3d6e36f8b"
 
 [[files]]
 file = "config/torchmaster.toml"
@@ -1782,8 +1782,12 @@ file = "mods/irons_lib-1.21.1-2.1.0.jar"
 hash = "3d0ad1003d6edeaad2500b9922267b4192d2c603cdd846fda339b168f4deff72"
 
 [[files]]
+file = "mods/irons_lib-1.21.1-2.2.0.jar"
+hash = "9e086a4d449147baad6468b11fd34924a905d9cb6818c962676aa0c4589dcc3c"
+
+[[files]]
 file = "mods/irons_spellbooks-1.21.1-3.16.3.jar"
-hash = "55a290db9b966e0c5d2f5c051d50775f3db6375cdb52730c4da528bcf5d5daa0"
+hash = "13d644474ddba4f8478b4ce68294687fd509c994b3f344a224142b102dbe6f73"
 
 [[files]]
 file = "mods/jamlib-neoforge-1.3.6+1.21.1.jar"
@@ -1868,6 +1872,10 @@ hash = "5525814d6fb0c3b42e85107de2f87963e18da05da273e415d02c4a5b1a9e6853"
 [[files]]
 file = "mods/letsdo-wildernature-neoforge-1.1.6.jar"
 hash = "9c6463c082436a26fd73a9eee79e5aeaa9bc3dc57c1798a7e667243fb462fc06"
+
+[[files]]
+file = "mods/leylines-1.0.3.jar"
+hash = "0eb4290294a5876a0bfe3614ad35db28890b0a776098c81382a68734e2e51fe4"
 
 [[files]]
 file = "mods/lionfishapi-3.1.jar"
@@ -2076,6 +2084,14 @@ hash = "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
 [[files]]
 file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
 hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
+
+[[files]]
+file = "mods/specs_irons_spellbooks-1.6.10-neoforge-1.21.1.jar"
+hash = "d38d36f69334c360af51da10bef367cd47864b1860fdb78023d42719bd6c2e76"
+
+[[files]]
+file = "mods/spell_actionbar-1.1.7-neoforge-1.21.1.jar"
+hash = "85d0d73877c39d6a12eb5c41c65af49091eef1b836bbe345ec026144718b96cf"
 
 [[files]]
 file = "mods/stardew_fishing-3.7-1.21.1.jar"
