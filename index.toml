@@ -17,10 +17,6 @@ file = "config/seasons.toml"
 hash = "14faa01b7d88dabf16aab29042b65349f7347a1cc51196661db2d0dff5d0ca5d"
 
 [[files]]
-file = "config/structurify.json"
-hash = "0a184872318295e56a0474b299bb4812e257cf69c547254d54b135b3d6e36f8b"
-
-[[files]]
 file = "config/torchmaster.toml"
 hash = "4765c6a67959c7a4c0e5366eb28b13f4188577d8e54bde7d07b0adc9f92bb3ad"
 
@@ -2100,10 +2096,6 @@ hash = "27dcd8c852bcfeb3dc0a93753f0beb55a70b374917fcb41ff13a53502f370ae4"
 [[files]]
 file = "mods/structure_layout_optimizer-neoforge-1.0.12.jar"
 hash = "ef8eb29c5c4f111c74a49d379843e4c2f51d11b28c8116a49be13636c83f4385"
-
-[[files]]
-file = "mods/structurify-neoforge-2.0.40+mc1.21.1.jar"
-hash = "e005afe32914d9328a4a5c9a380eba6a8d67872cbff124c91f4b7f705e52e4e5"
 
 [[files]]
 file = "mods/submarinefix-1.0.1.jar"
